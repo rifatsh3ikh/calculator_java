@@ -31,7 +31,7 @@ This project is a basic calculator built using the Java programming language. It
    git clone https://github.com/rifatsh3ikh/calculator_java.git
 
 ## Author
-Rifat Sheikh
+**Rifat Sheikh**
 
 ## License
 This project is open source and available for learning purposes.
